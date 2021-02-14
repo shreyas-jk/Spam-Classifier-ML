@@ -6,3 +6,5 @@ Kaggle Dataset : [Link](https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
 To utilize the trained model, I developed a Web App using Flask, where you can enter and classify an email yourself.
 
+[Demonstration](https://spamclassifier000.herokuapp.com/)
+
